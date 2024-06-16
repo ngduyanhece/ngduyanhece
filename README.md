@@ -2,7 +2,7 @@
 
 ### A passionate AI Engineer
 
-- 🔭 I’m currently working on developing generative agents for information retrieval products at OpenLab (my own startup)
+- 🔭 I’m currently working on developing generative agents for information retrieval products
 - 🌱 I’m currently learning advanced techniques in semantic search and information retrieval super-charged by LLMs
 - 👯 I’m looking to collaborate on AI and machine learning projects, especially those involving information retrieval and semantic search.
 - 🤔 I’m looking for help with exploring new advancements in AI and machine learning.
